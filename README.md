@@ -30,7 +30,7 @@ Please, read [instructions][Submitting Solutions].
 
 ## Curriculum
 
-- [ ] [0. Become familiar with Rust basics][Step 0] (1 week)
+- [x] [0. Become familiar with Rust basics][Step 0] (1 week)
 - [ ] [1. Concepts][Step 1] (2 weeks)
     - [ ] [1.1. Default values, cloning and copying][Step 1.1]
     - [ ] [1.2. Boxing and pinning][Step 1.2]

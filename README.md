@@ -41,7 +41,7 @@ Please, read [instructions][Submitting Solutions].
     - [ ] [1.7. `Sized` and `?Sized` types][Step 1.7]
     - [ ] [1.8. Thread safety][Step 1.8]
     - [ ] [1.9. Phantom types][Step 1.9]
-    - [ ] [1.10. Summary Task][Step 1 Summary Task]
+    - [x] [1.10. Summary Task][Step 1 Summary Task] - https://github.com/demitrii-velz/doubly_linked_list
 - [ ] [2. Idioms][Step 2] (2 weeks)
     - [ ] [2.1. Rich types ensure correctness][Step 2.1]
     - [ ] [2.2. Swapping values with `mem::replace`][Step 2.2]
